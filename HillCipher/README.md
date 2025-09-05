@@ -56,7 +56,8 @@ Program ini dibuat menggunakan **Python** dengan tujuan untuk:
 * Kunci:
 
   ```
- Masukkan Key dalam bentuk matriks n x n
+  [[x x]
+   [x x]]
   ```
 * Ciphertext: `...` *(hasil otomatis dari program)*
 
@@ -66,7 +67,8 @@ Program ini dibuat menggunakan **Python** dengan tujuan untuk:
 * Kunci:
 
   ```
- Masukkan Key dalam bentuk matriks n x n
+  [[x x]
+   [x x]]
   ```
 * Plaintext: `HELLO`
 
@@ -88,6 +90,7 @@ Program ini dibuat menggunakan **Python** dengan tujuan untuk:
 
 Tambahkan hasil screenshot penggunaan program Anda di bawah ini:
 ![Screenshot Program](screecshot/hasilprogram.jpg)
+
 ## 📝 Catatan
 
 * Untuk kunci berukuran `n x n`, dibutuhkan minimal `n^2` karakter plaintext dan ciphertext agar pencarian kunci berhasil.

@@ -19,22 +19,6 @@ Program ini dibuat menggunakan **Python** dengan tujuan untuk:
 * **Cari Kunci (Menu 3)**
   Menemukan matriks kunci dari pasangan plaintext dan ciphertext (brute force pada blok yang invertible).
 
----
-
-## 📦 Kebutuhan
-
-* Python **3.8+**
-* Library:
-
-  * `numpy`
-
-Install library dengan:
-
-```bash
-pip install numpy
-```
-
----
 
 ## ▶️ Cara Menjalankan
 
@@ -103,8 +87,6 @@ pip install numpy
 ## 🖼️ Screenshot Program
 
 Tambahkan hasil screenshot penggunaan program Anda di bawah ini:
-
-![WhatsApp Image 2025-09-05 at 17 41 32_5689aab3](https://github.com/user-attachments/assets/6fe6155a-6460-42fb-ac84-f495f3cdefa7)
 
 ## 📝 Catatan
 

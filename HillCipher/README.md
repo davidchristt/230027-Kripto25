@@ -87,7 +87,7 @@ Program ini dibuat menggunakan **Python** dengan tujuan untuk:
 ## 🖼️ Screenshot Program
 
 Tambahkan hasil screenshot penggunaan program Anda di bawah ini:
-
+![Screenshot Program](screecshot/ss running hillcipher.jpg)
 ## 📝 Catatan
 
 * Untuk kunci berukuran `n x n`, dibutuhkan minimal `n^2` karakter plaintext dan ciphertext agar pencarian kunci berhasil.

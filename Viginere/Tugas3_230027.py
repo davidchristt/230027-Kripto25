@@ -35,7 +35,7 @@ def vigenere_decrypt(ciphertext, key):
             plaintext += ch
     return plaintext
 
-# Contoh pemakaian
+
 plaintext = "ASPRAKGANTENG"
 key = "DAVID"
 
